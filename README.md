@@ -1,1 +1,1 @@
-# OPCUA-Training
+# OPCUA-Scripts
